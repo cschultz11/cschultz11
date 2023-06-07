@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris!</h1>
 <h3 align="center">A passionate frontend developer from New York City.</h3>
 
-- 🔭 I’m currently working on **an undetermined C# project**
+- 🔭 I’m currently working on **Advanced C# ASCII Chess Game**
 
 - 👨‍💻 All of my projects are available at [https://cschultz11.github.io/past-projects/](https://cschultz11.github.io/past-projects/)
 
